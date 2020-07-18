@@ -8,7 +8,6 @@ body {
 }
 
 table{
-background-color:#FFFAF0;
 
 	margin-right:50px; 
 	border-left-color:rgb(255,130,255);
@@ -40,12 +39,7 @@ p{
 	color: #0A0A2A
 }
 
-.opacity{
-   background-color:rgb(205, 92, 92);
-   opacity:0.1; 
-   width:800px;
-   height:800px;
-}
+
 
 h1,h2{
 	font-family: Serif;
@@ -89,8 +83,6 @@ input, button{
 	color:
 	rgb(60, 60, 60);
 border-radius: 5px;
-background-color: rgb(255, 255, 255);
-transition: background-color: 1s linear;
 }
 
 a{
@@ -99,8 +91,8 @@ a{
 
 div{
 
-	background-color:#fdfff6;
-	opacity: 0.7;
+	
+	
 	margin-right:700px; 
 	border-left-color:rgb(255,130,255);
 	align-content: center;
