@@ -1,8 +1,7 @@
 
 body {
- background-image: url("Evidencia web2/Imagenes/Arbol.jpg");
-
-	  background-position: center center;	  
+ background-image: url("/Imagenes/Arbol.jpg");
+background-position: center center;	  
 	background-attachment: fixed;
 	background-size: cover;
 }
